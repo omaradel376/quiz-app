@@ -1,0 +1,11 @@
+Done
+01- create files 
+02- add the quesition in json file
+03- create html file
+04- add styling in css file for html
+05- create a fake quiz to apply styling on it 
+06- create a logic in js file
+07- create a timer
+08- show a mark in the end of quiz
+
+//TODO

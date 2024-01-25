@@ -1,0 +1,114 @@
+[
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "Hyper Text Markup Language",
+    "answer_2": "High Tech Modern Language",
+    "answer_3": "Hyperlink and Text Management Language",
+    "answer_4": "Home Tool Markup Language",
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which tag is used to define a main heading in HTML?",
+    "answer_1": "<heading>",
+    "answer_2": "<h1>",
+    "answer_3": "<head>",
+    "answer_4": "<title>",
+    "right_answer": "<h1>"
+  },
+  {
+    "title": "Which element is used to insert new lines in HTML?",
+    "answer_1": "<break>",
+    "answer_2": "<lb>",
+    "answer_3": "<newline>",
+    "answer_4": "<br>",
+    "right_answer": "<br>"
+  },
+  {
+    "title": "What tag is used to define a dropdown list in HTML?",
+    "answer_1": "<dropdown>",
+    "answer_2": "<list>",
+    "answer_3": "<select>",
+    "answer_4": "<menu>",
+    "right_answer": "<select>"
+  },
+  {
+    "title": "Which tag is used to create a table in HTML?",
+    "answer_1": "<table>",
+    "answer_2": "<tab>",
+    "answer_3": "<grid>",
+    "answer_4": "<tgrid>",
+    "right_answer": "<table>"
+  },
+  {
+    "title": "How can you set the background color of an HTML page using CSS?",
+    "answer_1": "background-color",
+    "answer_2": "color-background",
+    "answer_3": "bgcolor",
+    "answer_4": "page-color",
+    "right_answer": "background-color"
+  },
+  {
+    "title": "What is the difference between HTML and HTML5?",
+    "answer_1": "No difference",
+    "answer_2": "HTML5 is the fifth version of HTML",
+    "answer_3": "HTML5 is a programming language",
+    "answer_4": "HTML is better than HTML5",
+    "right_answer": "HTML5 is the fifth version of HTML"
+  },
+  {
+    "title": "How can you add a comment in CSS?",
+    "answer_1": "// This is a comment",
+    "answer_2": "/* This is a comment */",
+    "answer_3": "# This is a comment",
+    "answer_4": "/ This is a comment /",
+    "right_answer": "/* This is a comment */"
+  },
+  {
+    "title": "Which property can be used to specify the font type in CSS?",
+    "answer_1": "font-family",
+    "answer_2": "text-style",
+    "answer_3": "font-type",
+    "answer_4": "type-font",
+    "right_answer": "font-family"
+  },
+  {
+    "title": "How can you set the width and height of an image in CSS?",
+    "answer_1": "width and height",
+    "answer_2": "size",
+    "answer_3": "dimensions",
+    "answer_4": "length",
+    "right_answer": "width and height"
+  },
+  {
+    "title": "Which tag is used to add icons to an HTML page?",
+    "answer_1": "<icon>",
+    "answer_2": "<i>",
+    "answer_3": "<img>",
+    "answer_4": "<glyph>",
+    "right_answer": "<i>"
+  },
+  {
+    "title": "What is the difference between the div element and the span element in HTML?",
+    "answer_1": "No difference",
+    "answer_2": "div is used to define header levels",
+    "answer_3": "span is used to define list groups",
+    "answer_4": "div is used to organize content, while span is used for text formatting",
+    "right_answer": "div is used to organize content, while span is used for text formatting"
+  },
+  {
+    "title": "Which property is used to specify text margin in CSS?",
+    "answer_1": "text-padding",
+    "answer_2": "margin",
+    "answer_3": "text-margin",
+    "answer_4": "padding",
+    "right_answer": "margin"
+  },
+  {
+    "title": "What is the difference between inline and block elements in CSS?",
+    "answer_1": "Inline is displayed horizontally, block is displayed vertically",
+    "answer_2": "Inline is displayed vertically, block is displayed horizontally",
+    "answer_3": "Inline is displayed in a box, block is displayed in a row",
+    "answer_4": "No difference",
+    "right_answer": "Inline is displayed in a box, block is displayed in a row"
+  }
+]
